@@ -1,1 +1,2 @@
 win10iso/ignore
+winiso/win10.x64.lite.v5-ik.iso
